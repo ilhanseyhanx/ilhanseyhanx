@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm İlhan Seyhan</h1>
 <h3 align="center">Data Science & Machine Learning Enthusiast | Python Developer</h3>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilhanseyhanx&label=Profile%20views&color=0e75b6&style=flat" alt="ilhanseyhanx" />
-</p>
-
----
 
 ### 🌐 Connect with me:
 
@@ -64,6 +58,10 @@
 
 ---
 
-### 💬 Quote
+---
 
-> "Data is the new oil. But it’s crude. It has to be refined, processed, and turned into insights." — Clive Humby
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilhanseyhanx&label=Profile%20views&color=0e75b6&style=flat" alt="ilhanseyhanx" />
+</p>
+
+---
