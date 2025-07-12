@@ -49,12 +49,19 @@
 
 ---
 
-### 🧠 Current Focus
+### What I Do
+🎯 Building Machine Learning Models for real-world business problems
 
-- 🎯 Customer Churn Prediction  
-- 📊 Data Visualization & EDA  
-- 🤖 Machine Learning & Deep Learning (TensorFlow, LightGBM, XGBoost)  
-- 🛠️ Kaggle Competitions & Model Tuning
+📊 Analyzing and Visualizing Data to extract actionable insights
+
+🤖 Developing AI Solutions using TensorFlow, LightGBM, and XGBoost
+
+🧪 Experimenting with Feature Engineering & Model Optimization
+
+🏆 Competing in Kaggle Competitions and refining practical ML skills
+
+📚 Continuously learning about Deep Learning, NLP, and AI tools
+
 
 ---
 
