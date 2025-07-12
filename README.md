@@ -49,7 +49,7 @@
 
 ---
 
-### What I Do
+### 🧠What I Do
 🎯 Building Machine Learning Models for real-world business problems
 
 📊 Analyzing and Visualizing Data to extract actionable insights
